@@ -11,3 +11,4 @@ Entrar no arquivo config.ts e adicionar os dados do banco local
 ```bash
 npm run dev
 ```
+A aplicação roda na porta 8000
